@@ -1,2 +1,2 @@
-# Conflict test
+# Merge conflict test
 git test
